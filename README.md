@@ -13,13 +13,14 @@ I found [a big list of emoji](https://carpedm20.github.io/emoji/) (which are sto
 
 I haven't looked through a lot, but some fun examples, for example:
 
+🐗 ↷ 🐷  
 🔦 ↷ 🔆  
 😀 ↷ 😠  
 😂 ↷ 😢  
 😭 ↷ 😍  
 😎 ↷ 😮  
-🫃 ↷ 🫣  
+😠 ↷ 😀  
+😁 ↷ 😡  
 📺 ↷ 📚  
-🦤 ↷ 🦄  
-🏇 ↷ 🏧
+🦤 ↷ 🦄
 
